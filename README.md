@@ -1,4 +1,4 @@
-# CmpDeepDive
+# Dashboard - demo
 
 An **Angular 18** standalone components demo — a single-page operational dashboard that showcases modern Angular APIs including **signals**, **new control flow syntax**, **content projection**, and **standalone architecture** without a single `NgModule`.
 
